@@ -1,0 +1,3 @@
+2014-06-16 Felipe Weckx <felipe@weckx.net>
+	* 0.21-2:
+	Removed incorrect openssl dependency
